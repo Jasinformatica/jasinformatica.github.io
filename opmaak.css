@@ -1,4 +1,6 @@
 
 #body1 {
     background-image: url("bsachtergrondfoto.jpg");
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
 }
