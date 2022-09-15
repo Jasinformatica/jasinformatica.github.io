@@ -1,24 +1,10 @@
 
-#titelkopje1 {
-    background-image: url("Binairachtergrond2.jpg");
-}
-#titelkopje1 {
-    color: white;
-    border-color: #0086b3;
-    text-align: center;
-    border-style: solid;
-    border-width: 2px;
-    border-radius: 6px;
-    padding: 40px;
-    background-color: #0086b3;
-}
-
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #0086b3;
   }
   
   li {
@@ -33,7 +19,20 @@ ul {
     text-decoration: none;
   }
   
-  /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: #111;
+    background-color: #0086b355;
   }
+
+  #titelkopje1 {
+    background-image: url("Binairachtergrond2.jpg");
+}
+#titelkopje1 {
+    color: white;
+    border-color: #0086b3;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 6px;
+    padding: 40px;
+    background-color: #0086b3;
+}
