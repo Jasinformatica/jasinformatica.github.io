@@ -23,6 +23,15 @@ ul {
     background-color: #8bcde3;
   }
 
+/* Home pagina */
+
+ #plaatje1 {
+  max-width: 100%;
+  height: auto;
+ }
+
+
+/* binair stelsel pagina*/
   #body1 {
     background-image: url("Binairachtergrond2.jpg");
     /** dit is de achtergrond van binairstelsel**/
@@ -37,22 +46,24 @@ ul {
     padding: 40px;
     background-color: #0086b3;
 }
-/** **/
+/** dit zorgt voor het blauwevlak en de titel van het binairstelsel **/
 
   #p3 {
   background-color: #0086b3;
    padding: 50px;
    margin: 20px;
  }
+ /* dit zorgt voor het blauwe vlak en de inleiding van het binairstelsel*/
 
  #div1 {
   background-color: #66ccff;
    padding: 50px;
    margin: 20px;
  }
+/* dit zorgt voor het blauwe vlak met de tekst erin*/
 
  #p6 {
   text-align: right;
  }
-
+/** dit zorgt ervoor dat het plaatje rechts is in de binairstelsel**/
  
