@@ -26,7 +26,7 @@ ul {
 /* Home pagina */
 
  #plaatje1 {
-  max-width: 90%;
+  max-width: auto;
   height: auto;
  }
 
