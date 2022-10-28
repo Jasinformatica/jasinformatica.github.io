@@ -63,7 +63,7 @@ ul {
 /* dit zorgt voor het blauwe vlak met de tekst erin*/
 
  #p6 {
-  text-align: right;
+  float: right;
  }
 /** dit zorgt ervoor dat het plaatje rechts is in de binairstelsel**/
  
