@@ -40,6 +40,14 @@ ul {
      width: 100%;
  }
 
+ .col { 
+  font-family: "monaco", monospace;
+  color: white;
+  border-style: solid;
+  border-width: 2px;
+  padding: 20px;
+  }
+
 /* binair stelsel pagina*/
   #body1 {
     background-image: url("Binairachtergrond2.jpg");
