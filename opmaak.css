@@ -74,12 +74,16 @@ ul {
   background-color: #66ccff;
    padding: 50px;
    margin: 20px;
+   height: auto;
+   width: 50%;
+   float: left;
  }
 /* dit zorgt voor het blauwe vlak met de tekst erin*/
 
  #p6 {
   float: right;
   overflow: auto;
+  width: 50%;
  }
 /** dit zorgt ervoor dat het filmpje rechts is in de binairstelsel**/
  
