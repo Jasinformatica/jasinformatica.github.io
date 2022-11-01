@@ -112,18 +112,18 @@ ul {
   background-color: #8bcde3;
 }
 
-#column3 {
+#column2 {
   display: flex;
   background-color: transparent;
  }
 
- #column3 div {
+ #column2 div {
      align-items: center;
      margin: 20px;
      width: 100%;
  }
 
- .colum { 
+ .col { 
   font-family: "monaco", monospace;
   color: white;
   border-style: solid;
