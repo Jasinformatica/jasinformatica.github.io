@@ -103,7 +103,7 @@ ul {
  #p6 {
   float: right;
   overflow: auto;
-  width: 60%;
+  width: auto;
  }
 /** dit zorgt ervoor dat het filmpje rechts is in de binairstelsel**/
  
