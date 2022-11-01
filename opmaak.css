@@ -114,7 +114,7 @@ ul {
 
 #column3 {
   display: flex;
-  background-color: #8bcde3;
+  background-color: transparent;
  }
 
  #column3 div {
