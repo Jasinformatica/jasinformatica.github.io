@@ -122,11 +122,16 @@ ul {
  }
 
  .col2 { 
-  font-family: "monaco", monospace;
-  color: white;
   border-style: solid;
   border-width: 2px;
   padding: 20px;
   }
 /* zorgt voor de 2 vlakken naast elkaar */
   
+#column3 {
+  border-style: solid;
+  border-width: 2px;
+  padding: 20px;
+  align-items: center;
+  margin: 20px;
+}
