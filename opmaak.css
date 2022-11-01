@@ -9,6 +9,11 @@
   color: white;
 }
 
+#body2 {
+  font-family: "monaco", monospace;
+  color: white;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -97,3 +102,7 @@ ul {
  }
 /** dit zorgt ervoor dat het filmpje rechts is in de binairstelsel**/
  
+/* Bitmap en vector paginaa */
+#body2 {
+  background-color: #8bcde3;
+}
