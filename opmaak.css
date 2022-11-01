@@ -9,7 +9,7 @@
   color: white;
 }
 
-#body3 {
+.body3 {
   font-family: "monaco", monospace;
   color: white;
 }
@@ -109,7 +109,7 @@ ul {
  
 /* Bitmap en vector paginaa */
 
-.body2 {
+.body3 {
   background-color: #8bcde3;
 }
 
