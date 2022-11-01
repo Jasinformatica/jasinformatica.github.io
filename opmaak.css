@@ -107,6 +107,11 @@ ul {
  }
 /** dit zorgt ervoor dat het filmpje rechts is in de binairstelsel**/
  
+#p5 {
+  float: left;
+}
+/* zorgt ervoor dat het spelletje links is */
+
 /* Bitmap en vector paginaa */
 
 
