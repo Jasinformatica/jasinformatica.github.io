@@ -9,15 +9,13 @@
   color: white;
 }
 
-.body3 {
-  font-family: "monaco", monospace;
-  color: white;
-}
+/* zorgt ervoor dat alle tekst hetzelfde is */
 
 footer {
   background-color: #8bcde3;
   padding: 10px;
 }
+/* opmaak van de footer */
 
 ul {
     list-style-type: none;
@@ -42,6 +40,7 @@ ul {
   li a:hover {
     background-color: #8bcde3;
   }
+  /*zorgt voor het menu boven aan */
 
 /* Home pagina */
 
@@ -65,6 +64,7 @@ ul {
   border-width: 2px;
   padding: 20px;
   }
+  /* zorgt voor de 3 vlakken naast elkaar */
 
 /* binair stelsel pagina*/
   #body1 {
@@ -109,9 +109,6 @@ ul {
  
 /* Bitmap en vector paginaa */
 
-.body3 {
-  background-color: #8bcde3;
-}
 
 #column2 {
   display: flex;
@@ -131,4 +128,5 @@ ul {
   border-width: 2px;
   padding: 20px;
   }
+/* zorgt voor de 2 vlakken naast elkaar */
   
