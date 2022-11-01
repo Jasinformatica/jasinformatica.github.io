@@ -14,6 +14,10 @@
   color: white;
 }
 
+footer {
+  background-color: #8bcde3;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -107,3 +111,23 @@ ul {
 #body3 {
   background-color: #8bcde3;
 }
+
+#column2 {
+  display: flex;
+  background-color: transparant;
+ }
+
+ #column2 div {
+     align-items: center;
+     margin: 20px;
+     width: 100%;
+ }
+
+ .col2 { 
+  font-family: "monaco", monospace;
+  color: white;
+  border-style: solid;
+  border-width: 2px;
+  padding: 20px;
+  }
+  
