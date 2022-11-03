@@ -48,6 +48,7 @@ ul {
 
  #column1 {
   display: flex;
+  flex: 60%,30%;
   background-color: #8bcde3;
  }
 
