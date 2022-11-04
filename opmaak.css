@@ -48,8 +48,16 @@ ul {
 
  #column1 {
   display: flex;
-  flex: 60%,30%;
+  flex-wrap: wrap;
   background-color: #8bcde3;
+ }
+
+ #column1 > *:nth-child(1) {
+  Flex: 1 1 70%;
+ }
+
+ #column1 > *:nth-child(1) {
+  Flex: 1 1 30%;
  }
 
  #column1 div {
@@ -65,7 +73,7 @@ ul {
   border-width: 2px;
   padding: 20px;
   }
-  /* zorgt voor de 3 vlakken naast elkaar */
+  /* zorgt voor de 2 vlakken naast elkaar */
 
 /* binair stelsel pagina*/
   #body1 {
