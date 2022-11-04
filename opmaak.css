@@ -48,17 +48,10 @@ ul {
 
  #column1 {
   display: flex;
-  flex-wrap: wrap;
   background-color: #8bcde3;
  }
 
- #column1 > *:nth-child(1) {
-  Flex: 1 1 70%;
- }
 
- #column1 > *:nth-child(2) {
-  Flex: 1 1 30%;
- }
 
  #column1 div {
      align-items: center;
