@@ -51,8 +51,6 @@ ul {
   background-color: #8bcde3;
  }
 
-
-
  #column1 div {
      align-items: center;
      margin: 20px;
@@ -138,5 +136,6 @@ ul {
   border-style: solid;
   border-width: 2px;
   padding: 20px;
+  border-color: white;
   background-color: #8bcde3;
 }
