@@ -157,4 +157,10 @@ ul {
   padding: 20px;
   }
 
-  
+  .links {
+    float: left;
+    } 
+    
+    .rechts {
+    float: right; 
+   }
