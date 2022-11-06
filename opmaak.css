@@ -15,6 +15,8 @@ footer {
   background-color: #8bcde3;
   padding: 10px;
   float: left;
+  width: 100%;
+  text-align: center;
 }
 /* opmaak van de footer */
 
