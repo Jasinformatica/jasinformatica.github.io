@@ -45,9 +45,8 @@ ul {
   }
   /*zorgt voor het menu boven aan */
 
-/* Home pagina */
 
-
+/** Home pagina **/
 
  #column1 {
   display: flex;
@@ -69,11 +68,14 @@ ul {
   }
   /* zorgt voor de 2 vlakken naast elkaar */
 
-/* binair stelsel pagina*/
+
+/** binair stelsel pagina **/
+
   #body1 {
     background-image: url("Binairachtergrond2.jpg");
-    /** dit is de achtergrond van binairstelsel**/
 }
+ /* dit is de achtergrond van binairstelsel */
+
 #titelkopje1 {
     color: white;
     border-color: #8bcde3;
@@ -108,14 +110,10 @@ ul {
   overflow: auto;
   width: 60%;
  }
-/** dit zorgt ervoor dat het filmpje rechts is in de binairstelsel**/
+/* dit zorgt ervoor dat het filmpje rechts is in de binairstelsel */
  
-#p {
-  align-items: center;
-}
 
-/* Bitmap en vector paginaa */
-
+/** Bitmap en vector pagina **/
 
 #column2 {
   display: flex;
@@ -141,6 +139,7 @@ ul {
   background-color: #8bcde3;
   float: left;
 }
+/* dit is voor het kopje opslag geluid */
 
 /** de kleurmodelen pagina **/
 
@@ -163,6 +162,8 @@ ul {
   padding: 20px;
   }
 
+/* zorgt voor de 2 kolommen naast elkaar */
+
   .links {
   float: left;
   } 
@@ -170,9 +171,11 @@ ul {
   .rechts {
   float: right; 
   }
+  /* dit zorgt voor de 2 plaatjes naast elkaar */
 
  #div5 {
   border-style: solid;
   padding: 20px;
   background-color: #8bcde3;
  }
+ /* zorgt voor het kopje pixels */
