@@ -146,9 +146,9 @@ ul {
  }
 
  #column4 div {
-     align-items: center;
-     margin: 20px;
-     width: 100%;
+  align-items: center;
+  margin: 20px;
+  width: 100%;
  }
 
  .col4 { 
@@ -158,3 +158,11 @@ ul {
   border-width: 2px;
   padding: 20px;
   }
+
+  .links {
+  margin-right: 50px;
+  } 
+  
+  .rechts {
+  margin-left: 50px; 
+ }
