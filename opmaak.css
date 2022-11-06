@@ -140,6 +140,8 @@ ul {
   float: left;
 }
 
+/** de kleurmodelen pagina **/
+
 #column4 {
   display: flex;
   background-color: #8bcde3;
@@ -160,9 +162,15 @@ ul {
   }
 
   .links {
-    float: left;
-    } 
+  float: left;
+  } 
     
-    .rechts {
-    float: right; 
-   }
+  .rechts {
+  float: right; 
+  }
+
+ #div5 {
+  border-style: solid;
+  padding: 20px;
+  background-color: #8bcde3;
+ }
