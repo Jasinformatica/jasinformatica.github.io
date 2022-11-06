@@ -120,9 +120,9 @@ ul {
  }
 
  #column2 div {
-     align-items: center;
-     margin: 20px;
-     width: 100%;
+  align-items: center;
+  margin: 20px;
+  width: 100%;
  }
 
  .col2 { 
@@ -132,11 +132,9 @@ ul {
   }
 /* zorgt voor de 2 vlakken naast elkaar */
   
-#column3 {
+#column3a {
   border-style: solid;
-  border-width: 2px;
   padding: 20px;
-  border-color: white;
   background-color: #8bcde3;
 }
 
