@@ -20,7 +20,7 @@ footer {
 }
 /* opmaak van de footer */
 
-.menu {
+.menu ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -28,11 +28,11 @@ footer {
     background-color: #0086b3;
   }
   
-  .menu {
+  .menu il {
     float: left;
   }
   
-  .menu {
+  .menu ul {
     display: block;
     color: white;
     text-align: center;
