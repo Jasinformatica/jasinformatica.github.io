@@ -30,10 +30,9 @@ footer {
   
   li {
     float: left;
-    overflow: hidden;
   }
   
-   li  {
+   li a {
     display: block;
     color: white;
     text-align: center;
