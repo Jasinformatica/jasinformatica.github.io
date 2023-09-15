@@ -40,7 +40,6 @@ footer {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 15px;
     width: 60px;
   }
   
@@ -217,4 +216,22 @@ footer {
 }
 /* opmaak van de button */
 
+
+
+#column5 {
+  display: flex;
+  background-color: #8bcde3;
+ }
+
+ #column5 div {
+  align-items: center;
+  margin: 20px;
+  width: 100%;
+ }
+
+ .col5 { 
+  border-style: solid;
+  border-width: 2px;
+  padding: 20px;
+  }
 
