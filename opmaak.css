@@ -40,7 +40,8 @@ footer {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    width: 60px;
+    font-size: 30px;
+    width: 100px;
   }
   
    li a:hover, .dropdown:hover .dropbtn {
