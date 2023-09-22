@@ -59,6 +59,7 @@ footer {
   }
 
   .dropdown-content a {
+    float: none;
     color: black;
     padding: 14px 16px;
     text-decoration: none;
