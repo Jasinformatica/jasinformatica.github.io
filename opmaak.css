@@ -1,4 +1,8 @@
 
+h2{
+  color:#0086b3
+}
+
 .body2 {
 font-family: "monaco", monospace;
 color: white;
@@ -13,9 +17,6 @@ color: white;
 
 /* zorgt ervoor dat alle tekst hetzelfde is */
 
-#h2 {
-  color:#0086b3
-}
 
 footer {
 background-color: #0086b3;
